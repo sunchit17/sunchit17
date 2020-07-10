@@ -3,7 +3,10 @@
 <!--
 **sunchit17/sunchit17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+#### Tech I'm Familiar with 
+
+Flutter :blue_heart: | 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
