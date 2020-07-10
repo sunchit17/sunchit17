@@ -13,5 +13,5 @@ Flutter :blue_heart: | Django :green_heart: | Tensorflow :yellow_heart: | Tkinte
 - 💬 Ask me about anything, always up for a chat.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunchit17), [Twitter](https://twitter.com/SLakhanpal17)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Your data can be corrupted by high energy particles from outer space
+- ⚡ Fun fact: Your data can be corrupted by high energy particles from outer space :grimacing:
 
