@@ -15,6 +15,7 @@ Flutter :blue_heart: | Django :green_heart: | Tensorflow :yellow_heart: | Tkinte
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunchit17), [Twitter](https://twitter.com/SLakhanpal17)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Your data can be corrupted by high energy particles from outer space :grimacing:
+- :space_invader: Interests: Violin :violin:, Guitar :guitar:, Football :soccer:, Video Games :video_game:, Poetry :black_nib: and Politics :thought_balloon:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunchit17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
