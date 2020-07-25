@@ -18,5 +18,4 @@ Flutter :blue_heart: | Django :green_heart: | Tensorflow :yellow_heart: | Tkinte
 - :space_invader: Interests: Violin :violin:, Guitar :guitar:, Football :soccer:, Video Games :video_game:, Poetry :black_nib: and Politics :thought_balloon:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunchit17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunchit17)](https://github.com/sunchit17/github-readme-stats)
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sunchit17&theme=radical">
