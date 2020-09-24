@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a final year CSE Student at Sir M. Visvesvaraya Institute of Technology(SMVIT), Bangalore with a passion for mobile application development and trying out my hands at the new innovations & research in the field of Mobile Development, Deep Learning and AI. I am currently a mentor at GLUG MVIT for Flutter based development, Google DSC Core at SMVIT on the capacity of Android Developer and have participated in multiple hackathons such as **NASA Space Apps**, **Flutter Hack** and **SnapChat Lensathon**. I actively contribute to open source and was a participant at **GirlScript Summer of Code 2020**.
+I'm a final year CSE Student at Sir M. Visvesvaraya Institute of Technology(SMVIT), Bangalore with a passion for mobile application development and trying out my hands at the new innovations & research in the field of Mobile Development, Deep Learning and AI. I am currently a mentor at GLUG MVIT for Flutter based development, Google DSC Core at SMVIT and have participated in multiple hackathons such as **NASA Space Apps**, **Flutter Hack** and **SnapChat Lensathon**. I actively contribute to open source and was a participant at **GirlScript Summer of Code 2020**.
 I am a firm believer of lifelong learning which is an essential aspect of thriving as a software engineer which I aspire to become :dizzy:
 
 *** 
